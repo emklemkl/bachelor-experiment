@@ -8,7 +8,10 @@
 
 """
 Read the instructions in README.md, all information is available in the README so feel free to delete any comments 
-in this file if you want to.
+in this file if you want to. 
+
+EXACTLY THE SAME INSTRUCTIONS YOU SEE BELOW CAN BE FOUND IN THE README.md
+
 """
 
 ##############################################################################################################

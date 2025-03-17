@@ -34,6 +34,8 @@ As soon as we gather up the results we will start the anonymization process of t
 
 ## TASK 2 - Write Program
 
+**EXACTLY THE SAME INSTRUCTIONS YOU SEE BELOW CAN BE FOUND IN THE main.py**
+
 Write a function named `task2` that takes one string argument and counts the number of words 
 that have exactly four characters and end with an 'e'.
 ```
