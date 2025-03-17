@@ -47,7 +47,7 @@ def task2(s: str) -> int: ...
 
 ### Example
 If called with the string argument:
-    `task2("Once upon a time.")`
+    `task2("Once upon a time. I had a baseball.")`
 The function should return 2, because "Once" and "time." (ignoring punctuation) 
 have exactly four characters and end in 'e'.
 
@@ -58,6 +58,7 @@ You are only allowed to use the following string methods:
 
 You are NOT allowed to use:
 - s.split() 
+- s.join() 
 - Regular expressions (re module)
 
 INSTRUCTIONS:

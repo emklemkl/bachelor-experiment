@@ -34,7 +34,7 @@ Assumptions:
 
 Example:
 If called with the string argument:
-    task2("Once upon a time.")
+    task2("Once upon a time. I had a baseball.")
 The function should return 2, because "Once" and "time." (ignoring punctuation) 
 have exactly four characters and end in 'e'.
 
@@ -44,7 +44,8 @@ You are only allowed to use the following string methods:
 - len(s)
 
 You are NOT allowed to use:
-- s.split()  # Splitting the string into words
+- s.split()  
+- s.join()  
 - Regular expressions (re module)
 
 INSTRUCTIONS:
@@ -53,7 +54,6 @@ INSTRUCTIONS:
 - Submit your `main.py` file as per the given instructions.
 """
 
-def task2():
+def task2(s: str) -> int:
     pass
-
 task2()
