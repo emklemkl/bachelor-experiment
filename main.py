@@ -11,9 +11,9 @@ Before you start reading the assignment below you are required to run:
     python3 ./.data/start.py
 
 When you are ready to turn in your assignment, run:
-    python3 ./.data/stop.py 
+    python3 ./.data/finished.py 
 
-If you accidently run the same start/stop command two times, no worries, its basically just a log entry. Just let us now before you leave the experiment.
+If you accidently run the same start/finished command two times, no worries, its basically just a log entry. Just let us now before you leave the experiment.
 
 When you have stopped the assignment timer, please do not change ANYTHING in your code, even if you see a bug. 
 Changes after triggering the stop timer would skew the result. You will not be personally judged in any way for mistakes. In fact, 
