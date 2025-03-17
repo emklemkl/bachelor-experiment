@@ -22,7 +22,7 @@
     ```
     To move the zip file to Windows desktop you have two choices:
     ```
-    mv task2-<YOUR-ASSIGNED-ID>.zip /mnt/c/Users/<YOUR-USERNAME>/Desktop/
+    mv task2-<YOUR-ASSIGNED-ID>.zip /mnt/c/Users/<YOUR-WINDOWS-USERNAME>/Desktop/
 
     or by opening and using the windows explorer:
 
