@@ -3,7 +3,7 @@
 
 ## BEFORE YOU START
 
-You should read everything on this page before the title "TASK 2 - Write Program". Before you start reading under "TASK 2 - Write Program" you should start the timer.
+**You should read everything on this page before the title "TASK 2 - Write Program". Before you start reading under "TASK 2 - Write Program" you should start the timer.**
 
 1. Before you start reading "TASK 2 - Write a program" assignment below you are required to run: 
     `python3 ./.data/start.py`
