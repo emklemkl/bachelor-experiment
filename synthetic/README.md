@@ -60,6 +60,7 @@ You are NOT allowed to use:
 - s.split() 
 - s.join() 
 - Regular expressions (re module)
+- Any kind of AI, such as ChatGPT or CoPilot (IntelliSense is ok as it not an AI)
 
 INSTRUCTIONS:
 - Implement the `task2` function following the restrictions above.
