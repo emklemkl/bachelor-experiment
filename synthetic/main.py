@@ -7,10 +7,14 @@
 ##############################################################################################################
 
 """
-Read the instructions in README.md, all information is available in the README so feel free to delete any comments 
-in this file if you want to. 
+Read the instructions in README.md.
 
 EXACTLY THE SAME INSTRUCTIONS YOU SEE BELOW CAN BE FOUND IN THE README.md
+(so feel free to delete any comments in this file if you want to) 
+
+Start timer: python3 ./.data/start.py
+Test code: python3 main.py
+Stop timer: python3 ./.data/finished.py
 
 """
 
@@ -19,6 +23,7 @@ EXACTLY THE SAME INSTRUCTIONS YOU SEE BELOW CAN BE FOUND IN THE README.md
 ##############################################################################################################
 ##############################################################################################################
 ##############################################################################################################
+
 
 """
 
