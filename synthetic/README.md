@@ -13,8 +13,8 @@ As soon as we gather up the results we will start the anonymization process of t
 
 **EXACTLY THE SAME INSTRUCTIONS YOU SEE BELOW CAN BE FOUND IN THE main.py**
 
-## Start Timer:
-**Terminal:**
+## Start Timer in terminal:
+
 **Start:** python3 ./.data/start.py
 
 **Stop:** python3 ./.data/finished.py
