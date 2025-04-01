@@ -7,13 +7,18 @@
 ##############################################################################################################
 
 """
-Read the instructions in README.md.
+If you haven't already, please read the instructions in the README.md.
 
 EXACTLY THE SAME INSTRUCTIONS YOU SEE BELOW CAN BE FOUND IN THE README.md
 (so feel free to delete any comments in this file if you want to) 
 
-Start timer: python3 ./.data/start.py
+START TIMER: python3 ./.data/start.py
+- Enter your student acronym: eg. (emkl21)
+- Enter your provided ID: eg. (1)
+- The timer has started.
+
 Test code: python3 main.py
+
 Stop timer: python3 ./.data/finished.py
 
 """

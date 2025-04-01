@@ -15,12 +15,15 @@ As soon as we gather up the results we will start the anonymization process of t
 
 ## Start Timer in terminal:
 
-**Start:** python3 ./.data/start.py
+**Start:** ```python3 ./.data/start.py```
+- Enter your student acronym: eg. (emkl21)
+- Enter your provided ID: eg. (1)
+- Timer has start
 
-**Stop:** python3 ./.data/finished.py
+**Stop:** ```python3 ./.data/finished.py```
 
 
-**Test code:** python3 main.py
+**Test code:** ```python3 main.py```
 
 
 
