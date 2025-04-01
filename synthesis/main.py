@@ -44,7 +44,7 @@ Assumptions:
 
 Example:
 If called with the string argument:
-    task2("Once upon a time. I had a baseball.")
+    task2("Once upon a time.")
 The function should return 2, because "Once" and "time." (ignoring punctuation) 
 have exactly four characters and end in 'e'.
 

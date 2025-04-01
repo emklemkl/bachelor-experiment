@@ -4,25 +4,31 @@
 
 **You should read everything on this page before the title "TASK 2 - Write Program".**
 
-If you accidentally run the same start/finished command two times, no worries, its basically just a log entry. Same thing if you happen to enter the wrong ID or acronym, just rerun the start script and enter 
-your credentials as usual. Just let us know before you leave the experiment. When you have stopped the assignment timer, please do not change ANYTHING in your code, even if you see a bug. Changes after triggering the stop timer would skew the result. You will not be personally judged in any way for mistakes. In fact, you can treat this task as any other school assignments, when you think it's good enough and you have solved the task to the best of your abilities, just turn it in.
-As soon as we gather up the results we will start the anonymization process of the data.
+Start the experiment by running the python3 start script. Finish by running the finished script (more info below).
+If you run a start or finish command twice, or enter the wrong ID/acronym, it’s fine—just rerun the script with the correct info.
+
+Let us know before leaving the experiment.
+Once you've stopped the assignment timer, do not change your code, even if you find bugs.
+You won’t be judged—just do your best and submit when you're satisfied.
+After submission, we’ll anonymize the data.
 
 **Before you start reading under "TASK 2 - Write Program" or open main.py make sure to start the timer.**
 
 
 **EXACTLY THE SAME INSTRUCTIONS YOU SEE BELOW CAN BE FOUND IN THE main.py**
-
+# Start and Stop assignment
+👉 Open the project in your preferred text editor.
+Stand in bachelor-experiment/synthesis/ 
 ## Start Timer in terminal:
-
 **Start:** ```python3 ./.data/start.py```
 - Enter your student acronym: eg. (emkl21)
-- Enter your provided ID: eg. (1)
-- Timer has start
+- Enter your provided ID: eg. (1) **!!Don't press Enter yet!!**
+- Let us know you have come this far
 
+## When you are finished:
 **Stop:** ```python3 ./.data/finished.py```
 
-
+## Execute code:
 **Test code:** ```python3 main.py```
 
 
@@ -42,7 +48,7 @@ def task2(s: str) -> int: ...
 If called with the string argument:
 
 
-    `task2("Once upon a time. I had a baseball.")`
+    `task2("Once upon a time.")`
 
 
 The function should return 2, because "Once" and "time." (ignoring punctuation) 
