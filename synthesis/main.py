@@ -19,8 +19,8 @@ have exactly four characters and end in 'e'.
 
 RESTRICTIONS:
 You are only allowed to use the following string methods:
-- s[i]
-- len(s)
+- s[i]    # Select character at index
+- len(s)  # Get the length of a string
 
 You are NOT allowed to use:
 - s.split()  
@@ -36,6 +36,10 @@ INSTRUCTIONS:
 example_test_string = "Once upon a time. I had a baseball."
 
 def task2(str: str) -> int:
-    pass
+    print(str)
+    #
+    # Write your code...
+    #
 
-task2(example_test_string)
+if __name__ == "__main__":
+    task2(example_test_string)
