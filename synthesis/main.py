@@ -21,11 +21,13 @@ RESTRICTIONS:
 You are only allowed to use the following string methods:
 - s[i]    # Select character at index
 - len(s)  # Get the length of a string
+- You have 10 minutes
 
 You are NOT allowed to use:
 - s.split()  
 - s.join()  
 - Regular expressions (re module)
+- Any kind of AI
 
 INSTRUCTIONS:
 - Implement the `task2` function following the restrictions above.
